@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(101, 186, 255);
+}
+
+.title{
+    margin: 2%;
+}
+
+.form-control{
+    width: 40% !important;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+.welcome{
+    margin-top: 2%;
+    text-align: center;
+}
+
+.nav-item{
+    background-color: rgb(101, 137, 255);
+}
+
+.nav-link{
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    color: black;
+}
